@@ -5,8 +5,10 @@ Scoreboard component made with React, Hooks and Sass for learning purposes
 I also used material-ui for this project.
 
 ## Technologies used:
-![Hooks](https://github.com/jendhordejan/Scoreboard/blob/master/src/components/Scoreboard/Scoreboard.js)
-![Sass](https://github.com/jendhordejan/Scoreboard/blob/master/src/components/Player/Player.scss)
+
+- **[React]**  
+- **[Hooks](./src/components/Scoreboard/Scoreboard.js)**  
+- **[Sass](./src/components/Player/Player.scss)**  
 
 ## Features to be included in the future:
 
