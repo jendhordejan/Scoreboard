@@ -2,8 +2,6 @@
 
 Scoreboard component made with React, Hooks and Sass for learning purposes
 
-I also used material-ui for this project.
-
 ## Technologies used:
 
 - **[React]**  
